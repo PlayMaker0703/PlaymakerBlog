@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/PB-Admin.iml" filepath="$PROJECT_DIR$/PB-Admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PB-Blog.iml" filepath="$PROJECT_DIR$/PB-Blog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PB-Framework.iml" filepath="$PROJECT_DIR$/PB-Framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PlaymakerBlog.iml" filepath="$PROJECT_DIR$/PlaymakerBlog.iml" />
+    </modules>
+  </component>
+</project>

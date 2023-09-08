@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="AdditionalModuleElements">
+    <content url="file://$MODULE_DIR$/PB-Blog" dumb="true">
+      <sourceFolder url="file://$MODULE_DIR$/PB-Blog/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/PB-Blog/src/main/resources" type="java-resource" />
+    </content>
+  </component>
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration>
+        <fileset id="fileset" name="Application.yml" removed="false">
+          <file>file://$MODULE_DIR$/PB-Blog/src/main/java/resources/application.yml.xml</file>
+          <file>file://$MODULE_DIR$/PB-Blog/src/main/java/com/zyf/PMBlogApplication.java</file>
+        </fileset>
+      </configuration>
+    </facet>
+  </component>
+</module>
